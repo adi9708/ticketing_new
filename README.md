@@ -1,5 +1,9 @@
 # 🎟️ Ticketing App 🎫
 
+![alt text](https://github.com/adi9708/infra1.png)
+
+
+![alt text](https://github.com/adi9708/infra2.png)
 
 <!--  
 [![Devops Build Status](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://dev.azure.com/typescript/TypeScript/_build?definitionId=7) -->
@@ -16,7 +20,7 @@
 
 ### App Connection
 
-![Screenshot (53)](https://user-images.githubusercontent.com/63959831/121482253-95f00f00-c9ea-11eb-9855-88be53a747a0.png) --> -->
+![Screenshot (53)](https://user-images.githubusercontent.com/63959831/121482253-95f00f00-c9ea-11eb-9855-88be53a747a0.png) -->
 
 <!-- ### NATS Services
 
@@ -124,6 +128,3 @@ http://ticketing.dev
 - Style the frontend
 - Implement email service
 
-## 📜 License
-
-This project is under MIT License
