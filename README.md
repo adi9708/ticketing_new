@@ -1,10 +1,8 @@
 # 🎟️ Ticketing App 🎫
 
-## 🧮 Microservices in MERN
 
-<br />
-<!-- 
-[![Devops Build Status](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://dev.azure.com/typescript/TypeScript/_build?definitionId=7)
+<!--  
+[![Devops Build Status](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://dev.azure.com/typescript/TypeScript/_build?definitionId=7) -->
 
 <!-- [![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
 [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
@@ -27,7 +25,7 @@
 
 # Ticketing
 
-## ❔ About
+## About
 
 Microservices Ticketing Application to sell and buy tickets
 
