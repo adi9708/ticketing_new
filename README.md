@@ -3,13 +3,13 @@
 ## 🧮 Microservices in MERN
 
 <br />
-
+<!-- 
 [![Devops Build Status](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://dev.azure.com/typescript/TypeScript/_build?definitionId=7)
 
-[![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
+<!-- [![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
 [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
-[![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
-
+[![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript) -->
+<!-- 
 ## App Structure
 
 ### Overall Function
@@ -18,11 +18,11 @@
 
 ### App Connection
 
-![Screenshot (53)](https://user-images.githubusercontent.com/63959831/121482253-95f00f00-c9ea-11eb-9855-88be53a747a0.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/63959831/121482253-95f00f00-c9ea-11eb-9855-88be53a747a0.png) --> -->
 
-### NATS Services
+<!-- ### NATS Services
 
-![Screenshot 2021-12-09 005613](https://user-images.githubusercontent.com/63959831/145271401-23147e0c-ee7a-44e1-99d2-56ec7122a780.png)
+![Screenshot 2021-12-09 005613](https://user-images.githubusercontent.com/63959831/145271401-23147e0c-ee7a-44e1-99d2-56ec7122a780.png) -->
 
 
 # Ticketing
