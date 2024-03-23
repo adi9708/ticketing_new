@@ -8,8 +8,10 @@
 <!-- ![alt text](https://github.com/adi9708/ticketing_new/blob/infra2.jpg?raw=true) -->
 
 <!-- ![Alt text](image link) -->
-![alt text](/blob/infra1.jpg "Optional title")    
+![alt text](/blob/infra1.jpg "Ticketing App Infrastructure")
 
+
+![alt text](/blob/infra2.jpg "Ticketing App Services")
 
 
 <!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
