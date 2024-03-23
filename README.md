@@ -1,9 +1,9 @@
 # 🎟️ Ticketing App 🎫
 
-![alt text](https://github.com/adi9708/ticketing_new/blob/main/infra1.png?raw=true)
+![alt text](https://github.com/adi9708/ticketing_new/blob/main/infra1.jpg)
 
 
-![alt text](https://github.com/adi9708/ticketing_new/blob/main/infra2.png?raw=true)
+![alt text](https://github.com/adi9708/ticketing_new/blob/main/infra2.jpg)
 
 <!--  
 [![Devops Build Status](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://dev.azure.com/typescript/TypeScript/_build?definitionId=7) -->
