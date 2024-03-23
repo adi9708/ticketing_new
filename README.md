@@ -82,7 +82,7 @@ To install and start the ticketing app follow the steps below:
 Clone the Repository:
 
 ```
-git clone https://github.com/the-cross-art/Ticketing-App-MicroServicesTS
+git clone https://github.com/adi9708/Ticketing-App-MicroServicesTS
 ```
 
 ### Services
@@ -130,9 +130,3 @@ http://ticketing.dev
 ## 📜 License
 
 This project is under MIT License
-
-## Special Thanks
-
-To Stephen Grider for the amazing [Microservices Course](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-
-Made with ❤️ by Imran Nazir
