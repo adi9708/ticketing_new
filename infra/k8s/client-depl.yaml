@@ -15,6 +15,9 @@ spec:
       containers:
         - name: client
           image: adityapatni/client
+          env:
+            - name: NODE_OPTIONS
+              value: "--openssl-legacy-provider"
 ---
 apiVersion: v1
 kind: Service
