@@ -119,11 +119,10 @@ cd ./ticketing/
 http://ticketing.dev
 ```
 
-## 🥅 Plans
+## 🥅 Future Scope
 
 - Style the frontend
 - Implement email service
--
 
 ## 📜 License
 
